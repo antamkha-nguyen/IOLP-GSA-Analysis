@@ -64,7 +64,6 @@ Risk tier distribution across 6,257 scored leased properties:
 - **Medium** (score 50-80): 1,583 properties
 - **Low** (score < 50): 4,259 properties
 
-> **Known limitation:** The `Available Square Feet` field is 100% null in this dataset release, so the utilization component defaults to a neutral value (0.5) for all properties. The score is still meaningful as it is driven by the expiration proximity and size components.
 
 
 
