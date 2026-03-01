@@ -153,7 +153,11 @@ Run all cells top to bottom. Processed outputs will be saved automatically to `d
 - `Installation Name` is missing for ~86% of records. Treated as non-essential.
 - The lease merge uses the **latest expiration date** for locations with multiple lease records (696 locations affected).
 
+## Tableau Dashboard
 
+An interactive dashboard built on the master dataset is published on Tableau Public, featuring a geographic risk map, lease expiration timeline, portfolio status breakdown, and key metrics across three KPI zones.
+
+[View on Tableau Public](https://public.tableau.com/app/profile/an.tam.kha.nguyen.2002/viz/GSARealEstatePortfolioAnalysis/FinalDashboard)
 
 ## Author
 
