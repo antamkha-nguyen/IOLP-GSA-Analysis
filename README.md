@@ -159,6 +159,9 @@ An interactive dashboard built on the master dataset is published on Tableau Pub
 
 [View on Tableau Public](https://public.tableau.com/app/profile/an.tam.kha.nguyen.2002/viz/GSARealEstatePortfolioAnalysis/FinalDashboard)
 
+<img width="2598" height="2998" alt="Final Dashboard" src="https://github.com/user-attachments/assets/86847eed-d86e-49ab-a3ca-3d44cc79e554" />
+
+
 ## Author
 
 **An Tam Kha (Justin) Nguyen**
