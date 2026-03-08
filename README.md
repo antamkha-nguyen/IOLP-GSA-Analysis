@@ -157,7 +157,7 @@ Run all cells top to bottom. Processed outputs will be saved automatically to `d
 
 An interactive dashboard built on the master dataset is published on Tableau Public, featuring a geographic risk map, lease expiration timeline, portfolio status breakdown, and key metrics across three KPI zones.
 
-[View on Tableau Public](https://public.tableau.com/app/profile/an.tam.kha.nguyen.2002/viz/GSARealEstatePortfolioAnalysis/FinalDashboard)
+**[View on Tableau Public](https://public.tableau.com/app/profile/an.tam.kha.nguyen.2002/viz/GSARealEstatePortfolioAnalysis/FinalDashboard)**
 
 <img width="2598" height="2998" alt="Final Dashboard" src="https://github.com/user-attachments/assets/86847eed-d86e-49ab-a3ca-3d44cc79e554" />
 
